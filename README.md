@@ -1,2 +1,2 @@
 # hello-world
-Introductory tutorial
+This is a branch from the master.
